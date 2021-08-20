@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "diesel-freehold-323515",
+  "private_key_id": "556f4830a57fdf1afa134e5e3634d7999204e515",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCw7SnTJSVbqwll\nON+eNuWQtP2x+n518j3ygkMF621/FHZ+54xeCV1UngfnDXELs43apDeX1jYsmDKq\nO4rjCAsBsFDryn22kTgARB+mjlFKF8JQLYhuDV0WeeehLqS4lAE1mn4ucl8XkKJI\nGV1G5pwTg9Q22QOi9QEZREBde+WS+A0rtCHTOSpWYu4eyxL2uFZAkgFfdvRKgjAj\nY3yLmKBl89jn+NvZAmJP5uE0WtFCd53dp05zRSOwaUfYzWosiOSDfPkowgLjLgu7\nMV8xJxfz77TWoVunJuXumyA5D3/2LJzld3EVmuVzcl6ACH+a2AU6lI1W4vrbZwZx\nuM2eziRrAgMBAAECggEARkq7Wrl/2ace0PnjEhNCapcV0f+w/YA0L2SkZzYtZxdE\nqs+ou3WiAGvWvOvgtWLtYWfr9GW1WUtQmcSVPfTklpOr2ro07vNMGgL2xi/1yOee\nmkc01HB3wuXE6otDA1g+EMNkDWUANbcPWnDFV9VoPfKavf3DTZtkh9rPbbS7NYOw\nZzh7An/wE+tqDkznN0cIes/yADPiqAAg2xKFUy/Q0LoVLM1Qgn2V2IAVcGSJjAc2\nEfykbYhU0XayEOZvvEg4QhhrvYYfzwonzOUnzCoGWIVPbY6jtH9dmy62hzhD3OJD\njkTBevjNoXtAmQU2OWNY+OzZXj2zl29YQb+az8MUaQKBgQDts72d3N6eAOSjXENS\nxTmu8140127t1EaN0k/uy0uJlYVJuCTDD+XoUQTjX/Aa9YmgdtLWVwijdZmgDccq\nJQwaFtIYPQRuZU0E7vk6BRWt+8phb/bSnYHu8xffX+SmiLT1DGPH30QyrOjH2qWG\n4peY1hrc0yS4JBiP+OomgHLfwwKBgQC+i8A9n+RQIlo2vqqtverd2dMq0EmiqJqw\n5ABueT++AGXthVUVllLAKmPUB4OLGSHcxHUu9q97fOHCvxkkEyYMOMwSrRUsu7jz\n+BDAYuhYf1lA/K/IcphYK8oa+KbBhk09ueqNEid6sjI9jQojJMqABjVJHGJHe7Nm\nne8jFhlGOQKBgCZQxsvfgnLtqe07Pg7lg7rTt+fEojjr8sOBlyji1DZFR8ruR965\nfVHJXYRZPpbZ5WlcPfgW52mR10WZcvU0K5M5AnytuT0iTxvweXQExc3ZvHGgXqTs\nhrlBriNvjafaeXDWom7haljQzmUItY3ckJsuR/44er7D8sGiWfwC0IGJAoGAeDhq\nSTdJcLnL24B+5XHO7rxRPFEANI1WVEb2cr0zV2ie5rZaEW2vtijIpW08NJXdxJF7\nMe9YlnwbYKj7bsRaHBn1v87OblPehKc9wnRlDfkDUjpbmgebUP4H3O6HH9DhiRF1\nCB6tI/+sLSOAgt3imdXQ5tjutRU6AoOg7q0xsxkCgYEAj3VRwl6JDPN2hTnWEo+u\ngnwUVZIiEVZQQG8oLYQlJMpCf9OsRtMZrX4eTOITRDp3GGX8QKZN3PkPw9fn/zpM\nuSxL45bLWtxc+BfI8X8fmvsJa1kUHLpIXpWPR0sEHCm0OXkPiQ/eKyK/RgEUdsDB\nbuTVxoIPoJL9UzKFrnNrC2w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-kxdi00avn4p57-7vjvdtqwsozu@diesel-freehold-323515.iam.gserviceaccount.com",
+  "client_id": "104108465579951046881",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-kxdi00avn4p57-7vjvdtqwsozu%40diesel-freehold-323515.iam.gserviceaccount.com"
+}
